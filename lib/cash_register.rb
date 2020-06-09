@@ -4,5 +4,7 @@ class CashRegister
     @total = total 
   end 
   
+  def employee_discount
+    
   
 end 
